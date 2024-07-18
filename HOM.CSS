@@ -1,0 +1,14 @@
+#get-started {
+  position: absolute;
+  top: 610px;
+  left: 615px;
+  color:  #3d1f1d; 
+  font-size: 2em;
+  padding: 20px 30px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
